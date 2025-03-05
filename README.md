@@ -124,9 +124,3 @@ Utilisez Postman ou Curl pour tester les endpoints.
 
 ## 📜 **Auteur**
 Développé par **Bernado Adikpeto**. 🚀
-
----
-
-## 📌 **Licence**
-Ce projet est sous licence MIT.
-
